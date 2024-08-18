@@ -1,0 +1,6 @@
+Qué es el DOM y Window Object
+-----------------------------
+
+DOM o Document Object Model
+
+Windows Object
